@@ -1,2 +1,2 @@
 # python projects
- my practice of python projects from datacamp (www.datacamp.com)
+ my practice of python projects on datacamp (www.datacamp.com)
